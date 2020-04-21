@@ -17,6 +17,7 @@ class Transaction {
   @Column()
   title?: string;
 
+  @Column()
   type?: 'income' | 'outcome';
 
   @Column()

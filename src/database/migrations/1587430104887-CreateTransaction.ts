@@ -31,7 +31,7 @@ const tableInfo: TableOptions = {
       type: 'numeric',
     },
     {
-      name: 'income',
+      name: 'type',
       type: 'varchar',
     },
     {
