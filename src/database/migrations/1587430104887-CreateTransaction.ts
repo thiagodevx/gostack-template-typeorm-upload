@@ -28,7 +28,7 @@ const tableInfo: TableOptions = {
     },
     {
       name: 'value',
-      type: 'numeric',
+      type: 'real',
     },
     {
       name: 'type',
